@@ -1,0 +1,8 @@
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+jp2a -i --color-depth=4 --size=70x20 a1.png
+neofetch --off
+test2.sh
+#test1.sh
+#exit
